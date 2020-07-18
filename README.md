@@ -1,2 +1,2 @@
 # Notator
-Notator is an application for taking outdoor notation with a smartphone or tablet, then you can save the file to the root of your smartphone.
+Notator is an application for taking notes outdoors with a smartphone or tablet, you can modify each value at any time then you can save the file on your smartphone in csv format. I created this application to optimize the capture of value and the transfer of data to an external database. Before that I had to transcribe value by value, the data taken on paper. This project was made with the graphics engine unity3d.
